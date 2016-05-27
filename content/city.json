@@ -1,0 +1,10 @@
+[ 
+  {"name": "Mumbai", "code": "AF"}, 
+  {"name": "Jammu", "code": "AX"}, 
+  {"name": "Kashmir", "code": "AL"}, 
+  {"name": "Bhubaneswar", "code": "DZ"}, 
+  {"name": "Delhi", "code": "AS"}, 
+  {"name": "Kolkata", "code": "AL"}, 
+  {"name": "Agartala", "code": "DZ"}, 
+  {"name": "Goa", "code": "AS"}
+ ]
